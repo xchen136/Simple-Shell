@@ -21,3 +21,12 @@ after all of these commands have finished executing.
 
 xchen136>
 xchen136> echo <helloworld> ; help
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+Objectives
+    1. To learn the UNIX/LINUX programming environment
+    2. Java's multi-thread programming 
+    3. Creating child processes 
+    
+    
