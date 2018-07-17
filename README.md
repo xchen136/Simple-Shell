@@ -1,7 +1,7 @@
 # Simple-Shell Project (Cs340 - Operating System, Professor Vivek Upadhyay, Spring 2017) 
 Implement under the Venus LINUX/UNIX System.
 
-"Project 1a"
+"Project 1a" /n
 I) A simple shell or command line interpreter which serves as a user interface to an operating system that supports the following commands: 
     1. clr - clear the screen
     2. echo <comment> - display <comment> on the screen followed by a new line (multiple space and tabs are reduced into a single space
