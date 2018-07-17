@@ -1,5 +1,5 @@
 # Simple-Shell Project (Cs340 - Operating System, Professor Vivek Upadhyay, Spring 2017) 
-Implement under the Venus LINUX/UNIX System.
+Implemented under the Venus LINUX/UNIX System.
 
 "Project 1a"
 
@@ -17,6 +17,7 @@ IV) The command prompt must contain your venus username with '>' at the end. Exa
 -------------------------------------------------------------------------------------------------------------------------------------------
 
 "Project 1b" - Enhance the shell from part 1a
+
 I) Allows multiple commands separated by ; character to be run concurrently. The shell only displays the prompt and ask for new commands 
 after all of these commands have finished executing.
 
