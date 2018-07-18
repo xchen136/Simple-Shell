@@ -1,4 +1,4 @@
-# Simple-Shell Project (Cs340 - Operating System, Professor Vivek Upadhyay, Spring 2017) 
+# Simple-Shell
 Implemented under the Venus LINUX/UNIX System.
 
 "Project 1a"
