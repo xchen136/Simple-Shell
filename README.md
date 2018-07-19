@@ -4,6 +4,7 @@ Implemented under the Venus LINUX/UNIX System.
 "Project 1a"
 
 I) A simple shell or command line interpreter which serves as a user interface to an operating system that supports the following commands: 
+
     1. clr - clear the screen
     2. echo [comment] - display [comment] on the screen followed by a new line (multiple space and tabs are reduced into a single space)
     3. help - displays the user manual
@@ -30,11 +31,8 @@ xchen136> echo [helloworld] ; help     //two commands at a time
 Objectives
     
     1. To familiarize with the UNIX/LINUX programming environment
-    
     2. Develop Java's multi-thread programming skills
-    
     3. To learn how threads are handled (i.e. starting and waiting for their termination)
-    
     4. Create child processes 
  
     
