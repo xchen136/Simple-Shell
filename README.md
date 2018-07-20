@@ -17,7 +17,7 @@ III) The shell must support background execution of programs. Adding an ampersan
 
 IV) The command prompt must contain your venus username with '>' at the end. Example: "upvu1234>"
 
--------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------
 
 "Project 1b" - Enhance the shell from part 1a
 
@@ -26,7 +26,7 @@ after all of these commands have finished executing.
 
 xchen136> echo [helloworld] ; help     //two commands at a time
 
--------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------
 
 Objectives
     
